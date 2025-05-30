@@ -6,3 +6,6 @@ This service acts as a reverse proxy for the various user-facing web interfaces.
 
 The envoy configuration is generated from the `envoy.tmpl.yaml` file in this
 directory. Environment variables are substituted at deploy-time.
+
+# Hosted on an EKS cluster in AWS By chidera
+ My devops Project
